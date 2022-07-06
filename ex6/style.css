@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(143, 63, 63);
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    width: 150px;
+    padding: 20px;
+    font-size: 2rem;
+}
+
+section {
+    width: 800px;
+    text-align: center;
+}
+
+a {
+    font-size: 2rem;
+    color: rosybrown;
+    text-decoration: none;
+    margin: 10px;
+}
+
+div {
+    display: flex;
+}
+
+div button {
+    margin: 10px;
+}
